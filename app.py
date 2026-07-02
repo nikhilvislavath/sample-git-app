@@ -12,3 +12,4 @@ with col2:
     ' Check Tatkal quota seat availability for your train and ticket confirmation probability/prediction.')
 
 st.write('hey nikhil')
+st.write('u will get the conformed ticket if not u get 3x')
