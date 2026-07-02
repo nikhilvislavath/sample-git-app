@@ -11,5 +11,6 @@ with col2:
     st.write('You can book Tatkal tickets for a maximum of only 4 passengers per PNR. Book tickets through your IRCTC login ID online on ixigo.' \
     ' Check Tatkal quota seat availability for your train and ticket confirmation probability/prediction.')
 
-st.write('hey nikhil')
+st.write('hey nikhil can u get me the ticket ')
+st.write('need the confiremed ticket ')
 st.write('u will get the conformed ticket if not u get 3x')
