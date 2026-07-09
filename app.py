@@ -14,3 +14,10 @@ with col2:
 st.write('hey nikhil can u get me the ticket ')
 st.write('need the confiremed ticket ')
 st.write('u will get the conformed ticket if not u get 3x')
+
+
+st.sidebar.title("Sidebar")
+st.sidebar.write("Home")
+st.sidebar.write("Courses")
+st.sidebar.write("Carrer")
+st.sidebar.write("Contact")
