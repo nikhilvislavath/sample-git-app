@@ -16,6 +16,7 @@ st.write('need the confiremed ticket ')
 st.write('u will get the conformed ticket if not u get 3x')
 
 
+
 st.markdown("---")
 
 st.markdown("""
@@ -27,3 +28,10 @@ st.markdown("""
 
 © 2026 Ticket Tatkal | All Rights Reserved
 """)
+
+st.sidebar.title("Sidebar")
+st.sidebar.write("Home")
+st.sidebar.write("Courses")
+st.sidebar.write("Carrer")
+st.sidebar.write("Contact")
+
