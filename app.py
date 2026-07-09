@@ -14,3 +14,16 @@ with col2:
 st.write('hey nikhil can u get me the ticket ')
 st.write('need the confiremed ticket ')
 st.write('u will get the conformed ticket if not u get 3x')
+
+
+st.markdown("---")
+
+st.markdown("""
+### 🚆 Ticket Tatkal
+
+📞 **Customer Care:** 1800-123-4567  
+📧 **Email:** support@tickettatkal.com  
+📍 **Contact Us:** Mumbai, India  
+
+© 2026 Ticket Tatkal | All Rights Reserved
+""")
